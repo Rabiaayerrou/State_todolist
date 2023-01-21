@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/State_todolist/static/css/main.ead5b602.css",
+    "main.js": "/State_todolist/static/js/main.15569647.js",
+    "static/js/787.2b1476cb.chunk.js": "/State_todolist/static/js/787.2b1476cb.chunk.js",
+    "static/media/mer.jpg": "/State_todolist/static/media/mer.d1a0ee41d1d8ed26211a.jpg",
+    "index.html": "/State_todolist/index.html",
+    "main.ead5b602.css.map": "/State_todolist/static/css/main.ead5b602.css.map",
+    "main.15569647.js.map": "/State_todolist/static/js/main.15569647.js.map",
+    "787.2b1476cb.chunk.js.map": "/State_todolist/static/js/787.2b1476cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ead5b602.css",
+    "static/js/main.15569647.js"
+  ]
+}
